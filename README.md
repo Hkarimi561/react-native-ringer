@@ -2,8 +2,8 @@
 
 Simple API to change the ringer in react native (anroid only)
 
-[![npm version](https://img.shields.io/npm/v/react-native-flash.svg?style=flat-square)](https://www.npmjs.com/package/react-native-ringer)
-[![npm downloads](https://img.shields.io/npm/dm/react-native-flash.svg?style=flat-square)](https://www.npmjs.com/package/react-native-ringer)
+[![npm version](https://img.shields.io/npm/v/react-native-ringer.svg?style=flat-square)](https://www.npmjs.com/package/react-native-ringer)
+[![npm downloads](https://img.shields.io/npm/dm/react-native-ringer.svg?style=flat-square)](https://www.npmjs.com/package/react-native-ringer)
 
 ## Installation
 `npm install react-native-ringer`
