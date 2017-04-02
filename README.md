@@ -1,5 +1,9 @@
 # react-native-ringer (android-only)
 
+This Code Is No Longer Being Maintained.
+It works (at least for the react-native version it was built for) and as that it will be left here. 
+If anyone wants to maintain the code, I will gladly transfer ownership.
+
 Simple API to change the ringer in react native (anroid only)
 
 [![npm version](https://img.shields.io/npm/v/react-native-ringer.svg?style=flat-square)](https://www.npmjs.com/package/react-native-ringer)
